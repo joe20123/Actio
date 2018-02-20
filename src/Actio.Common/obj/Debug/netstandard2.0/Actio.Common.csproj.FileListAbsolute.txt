@@ -1,0 +1,8 @@
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.deps.json
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.dll
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/bin/Debug/netstandard2.0/Actio.Common.pdb
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.csproj.CoreCompileInputs.cache
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.AssemblyInfoInputs.cache
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.AssemblyInfo.cs
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.dll
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/Debug/netstandard2.0/Actio.Common.pdb

@@ -1,0 +1,12 @@
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.deps.json
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.json
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.dev.json
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.csproj.CoreCompileInputs.cache
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfoInputs.cache
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfo.cs
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
