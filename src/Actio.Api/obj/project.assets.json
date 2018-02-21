@@ -4750,6 +4750,9 @@
       "Actio.Common/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.AspNetCore": "2.0.0"
+        },
         "compile": {
           "bin/placeholder/Actio.Common.dll": {}
         },
@@ -12556,6 +12559,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Dev\\Microservices\\Actio\\src\\Actio.Api\\Actio.Api.csproj",
       "projectName": "Actio.Api",
