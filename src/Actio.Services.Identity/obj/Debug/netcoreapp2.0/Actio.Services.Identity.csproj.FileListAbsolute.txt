@@ -10,3 +10,15 @@
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfo.cs
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.dll
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.deps.json
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.json
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.runtimeconfig.dev.json
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.dll
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\bin\Debug\netcoreapp2.0\Actio.Common.pdb
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CoreCompileInputs.cache
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfoInputs.cache
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.dll
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.pdb

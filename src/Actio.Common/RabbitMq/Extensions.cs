@@ -18,10 +18,10 @@ namespace Actio.Common.RabbitMq
         public static Task WithEventHandlerAsync<TEvent>(this IBusClient bus,
                                                         IEventHandler<TEvent> handler) where TEvent: IEvent
             => bus.SubscribeAsync<TEvent>(msg => (Task<RawRabbit.Common.Acknowledgement>)handler.HandleAsync(msg),
-                                            ctx => ctx.UseSubscribeConfiguration(cfg => 
+                                          ctx => ctx.UseSubscribeConfiguration(cfg => 
                                                 cfg.FromDeclaredQueue(q => q.WithName(GetQueueName<TEvent>()))));
 
         private static string GetQueueName<T> () 
-        => $"{Assembly.GetEntryAssembly().GetName()}/{typeof(T).Name}";
+            => $"{Assembly.GetEntryAssembly().GetName()}/{typeof(T).Name}";
     }
 }

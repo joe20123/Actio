@@ -12699,35 +12699,37 @@
     ]
   },
   "packageFolders": {
-    "/Users/josephwu/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Joseph.Wu\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Activities/Actio.Services.Activities.csproj",
+      "projectUniqueName": "C:\\Dev\\Microservices\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
       "projectName": "Actio.Services.Activities",
-      "projectPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Activities/Actio.Services.Activities.csproj",
-      "packagesPath": "/Users/josephwu/.nuget/packages/",
-      "outputPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Activities/obj/",
+      "projectPath": "C:\\Dev\\Microservices\\Actio\\src\\Actio.Services.Activities\\Actio.Services.Activities.csproj",
+      "packagesPath": "C:\\Users\\Joseph.Wu\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Microservices\\Actio\\src\\Actio.Services.Activities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/josephwu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Joseph.Wu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj": {
-              "projectPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj"
+            "C:\\Dev\\Microservices\\Actio\\src\\Actio.Common\\Actio.Common.csproj": {
+              "projectPath": "C:\\Dev\\Microservices\\Actio\\src\\Actio.Common\\Actio.Common.csproj"
             }
           }
         }
