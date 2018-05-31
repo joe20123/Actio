@@ -2,7 +2,7 @@ using System;
 using System.Threading.Tasks;
 using Actio.Common.Events;
 
-namespace Actio.Api.Controllers
+namespace Actio.Api.Handlers
 {
     public class ActivityCreatedHandler : IEventHandler<ActivityCreated>
     {

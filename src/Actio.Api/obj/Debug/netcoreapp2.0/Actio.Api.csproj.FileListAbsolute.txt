@@ -22,3 +22,5 @@ C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.Assem
 C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.AssemblyInfo.cs
 C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.dll
 C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.pdb
+C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csprojAssemblyReference.cache
+C:\Dev\Microservices\Actio\src\Actio.Api\obj\Debug\netcoreapp2.0\Actio.Api.csproj.CopyComplete
