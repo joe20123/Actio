@@ -6692,23 +6692,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/josephwu/.nuget/packages/": {},
+    "/Users/joe/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj",
+      "projectUniqueName": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Common/Actio.Common.csproj",
       "projectName": "Actio.Common",
-      "projectPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj",
-      "packagesPath": "/Users/josephwu/.nuget/packages/",
-      "outputPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/obj/",
+      "projectPath": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Common/Actio.Common.csproj",
+      "packagesPath": "/Users/joe/.nuget/packages/",
+      "outputPath": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Common/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/josephwu/.nuget/NuGet/NuGet.Config"
+        "/Users/joe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

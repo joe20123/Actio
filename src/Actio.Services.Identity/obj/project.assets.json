@@ -12699,23 +12699,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/josephwu/.nuget/packages/": {},
+    "/Users/joe/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/Actio.Services.Identity.csproj",
+      "projectUniqueName": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/Actio.Services.Identity.csproj",
       "projectName": "Actio.Services.Identity",
-      "projectPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/Actio.Services.Identity.csproj",
-      "packagesPath": "/Users/josephwu/.nuget/packages/",
-      "outputPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/",
+      "projectPath": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/Actio.Services.Identity.csproj",
+      "packagesPath": "/Users/joe/.nuget/packages/",
+      "outputPath": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/josephwu/.nuget/NuGet/NuGet.Config"
+        "/Users/joe/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12726,8 +12726,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj": {
-              "projectPath": "/Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Common/Actio.Common.csproj"
+            "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Common/Actio.Common.csproj": {
+              "projectPath": "/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Common/Actio.Common.csproj"
             }
           }
         }
