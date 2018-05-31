@@ -1,4 +1,5 @@
 using System;
+using Actio.Services.Activities.Domain.Services;
 
 namespace Actio.Services.Activities.Domain.Models
 {
@@ -22,5 +23,17 @@ namespace Actio.Services.Activities.Domain.Models
         public string Password { get; protected set; }
         public string Salt { get; protected set; }
         public DateTime CreatedAt { get; protected set; } 
+
+        public void SetPassword(string password, IEncryptor encryptor) {
+            if (string.IsNullOrWhiteSpace(password))
+            {
+                return;
+            }
+            Salt = encryptor.GetSalt(password);
+            Password = encryptor.GetHash(password, Salt);
+        }
+
+        public bool ValidatePassword(string password, IEncryptor encryptor)
+            => Password.Equals(encryptor.GetHash(password, Salt));
     }
 }
