@@ -16,14 +16,14 @@ namespace Actio.Services.Identity.Repositories
             
         }
 
-        public async Task<User> GetAsync(Guid id)
-        {
+        // public async Task<User> GetAsync(Guid id)
+        // {
             
-        }
+        // }
 
-        public async Task<User> GetAsync(string email)
-        {
+        // public async Task<User> GetAsync(string email)
+        // {
             
-        }
+        // }
     }
 }
