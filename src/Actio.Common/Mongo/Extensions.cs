@@ -20,6 +20,7 @@ namespace Actio.Common.Mongo
                 var client = c.GetService<MongoClient>();
                 return client.GetDatabase(options.Value.Database);
             });
+            services.AddScoped<IDatabaseInitializer, MongoInitializer>();
         }
     }
 }
