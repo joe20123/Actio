@@ -22,3 +22,5 @@ C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\A
 C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.AssemblyInfo.cs
 C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.dll
 C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.pdb
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csprojAssemblyReference.cache
+C:\Dev\Microservices\Actio\src\Actio.Services.Identity\obj\Debug\netcoreapp2.0\Actio.Services.Identity.csproj.CopyComplete
