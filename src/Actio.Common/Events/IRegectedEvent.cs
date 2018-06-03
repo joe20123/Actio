@@ -1,6 +1,6 @@
 namespace Actio.Common.Events
 {
-    public interface IRegectedEvent : IEvent
+    public interface IRejectedEvent : IEvent
     {
          string Reason { get; }
          string Code { get; }

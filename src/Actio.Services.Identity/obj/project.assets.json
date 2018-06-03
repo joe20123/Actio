@@ -5077,6 +5077,7 @@
         "dependencies": {
           "Microsoft.AspNetCore": "2.0.0",
           "Microsoft.AspNetCore.Hosting": "2.0.0",
+          "MongoDB.Driver": "2.6.1",
           "RawRabbit": "2.0.0-rc4",
           "RawRabbit.DependencyInjection.ServiceCollection": "2.0.0-rc4",
           "RawRabbit.OPerations.Subscribe": "2.0.0-rc4",

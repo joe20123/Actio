@@ -10,3 +10,17 @@
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfo.cs
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.dll
 /Users/josephwu/Desktop/Dev/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.deps.json
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.json
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.runtimeconfig.dev.json
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Services.Identity.pdb
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.dll
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/bin/Debug/netcoreapp2.0/Actio.Common.pdb
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.csprojResolveAssemblyReference.cache
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfoInputs.cache
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.AssemblyInfo.cs
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.csproj.CopyComplete
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.dll
+/Users/joe/Desktop/DEV/C#/Microservices/Actio/src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/Actio.Services.Identity.pdb

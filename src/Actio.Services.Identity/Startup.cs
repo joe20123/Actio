@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Actio.Common.MongoDB;
+using Actio.Common.RabbitMq;
 using Actio.Services.Identity.Domain.Repositories;
 using Actio.Services.Identity.Domain.Services;
 using Actio.Services.Identity.Services;
@@ -28,6 +29,7 @@ namespace Actio.Services.Identity
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMongoDB(Configuration);
+            services.AddRabbitMq(Configuration);            
             services.AddMvc();
             services.AddScoped<IEncryptor, Encryptor>();
             services.AddScoped<IUserRepository, UserRepository>();

@@ -1,6 +1,6 @@
 namespace Actio.Common.Events
 {
-    public class CreateUserRejected : IRegectedEvent
+    public class CreateUserRejected : IRejectedEvent
     {
         public string Reason { get; }
 
